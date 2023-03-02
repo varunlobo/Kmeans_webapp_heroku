@@ -10,3 +10,6 @@
 1. setup.sh
 2. Procfile
 3. requirements.txt
+
+
+* Heroku no longer has free services. Min payment is 7$ per dyno (server)
